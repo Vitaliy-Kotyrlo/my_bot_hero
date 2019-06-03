@@ -1,0 +1,4 @@
+matplotlib==2.2.4
+numpy==1.16.4
+python_telegram_bot==11.1.0
+telegram==0.0.1
